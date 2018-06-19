@@ -43,26 +43,25 @@ A fortnight long project for a group of four of us. The object was to build the 
 ## <a name="experience">Experience</a>
 
 ### Product management roles
-#### _Senior Digital Channels Manager (maternity cover), Marie Curie (July 2017 - April 2018)_
-
-#### _Digital Communications Programme Manager, Institute of Physics (March 2016 - July 2017)_
+*_Senior Digital Channels Manager (maternity cover), Marie Curie (July 2017 - April 2018)_* <br>
+*_Digital Communications Programme Manager, Institute of Physics (March 2016 - July 2017)_*<br>
 
 Managing digital products and services. Getting business needs all the way through to live digital products. Establishing and running SCRUM teams as well as looking after design, analytics and user experience.
 
 ### The few months in startup land
-#### _Founder, The Gifting Co. (Full-time: September 2015 - January 2016)_
+*_Founder, The Gifting Co. (Full-time: September 2015 - January 2016)_*<br>
 
 Attempting to turn my vision for a gift buying service into a business. Received an early stage investment from Forward Partners - a venture capital fund. <a href="https://medium.com/@benfurber/so-i-m-officially-a-founder-now-what-ca88c9516408">I wrote this at the start of that journey</a> and <a href="https://medium.com/@benfurber/so-i-ve-hit-a-wall-what-now-b07bbc60f75a">this at the end</a>.
 
 ### Website management
-#### _Consultant, main client Crimestoppers (November 2014 - September 2015)_
-#### _Digital Communications Manager, Asthma UK (January 2013 - November 2014)_
-#### _Digital Communications Officer, Trade Union Congress (September 2011 - January 2013)_
+*_Consultant, main client Crimestoppers (November 2014 - September 2015)_*<br>
+*_Digital Communications Manager, Asthma UK (January 2013 - November 2014)_*<br>
+*_Digital Communications Officer, Trade Union Congress (September 2011 - January 2013)_*<br>
 
 Managing large, content driven websites for non-profits.
 
 ### Website designer</strong><br/>
-#### _Freelancer (December 2011 - July 2016)_
+*_Freelancer (December 2011 - July 2016)_*
 
 Mainly design and build projects on Wordpress for a variety of clients. Often sub-contracted from agencies.
 
@@ -102,6 +101,6 @@ Pretty much just food really. Eating it, cooking it, reading about it, staring a
 
 ## <a name="contact">Contact details</a>
 
-Email - [ben.furber@googlemail.com](ben.furber@googlemail.com)
-Phone - 0770 416 3099
-Github - [@benfurber](https://github.com/benfurber/) 
+Email - [ben.furber@googlemail.com](ben.furber@googlemail.com)<br/>
+Phone - 0770 416 3099<br/>
+Github - [@benfurber](https://github.com/benfurber/)
