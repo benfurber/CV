@@ -1,11 +1,13 @@
 ## Ben Furber
 ***
-[Projects](#projects) - [Experience](#experience) - [Skills](#skills) - [Education](#education) - [Interests](#interests)
+[Projects](#projects) - [Experience](#experience) - [Skills](#skills) - [Education](#education) - [Interests](#interests) - [Contact details](#contact)
 ***
 
 I’m a former product manager trying to stay out of my comfort zone - [so I’m learning to become a junior developer at Makers Academy](#education). I started out as a website designer/manager, before (briefly) running a startup and later as website product owner for large charity.
 
 I love being part of building digital products, so I want to continue doing that as a developer - staying out of my comfort zone as much as possible by building complex and difficult things for ambitious companies.
+
+[Email me](mailto:ben.furber@googlemail.com)
 
 ## <a name="projects">Projects</a>
 
@@ -80,11 +82,12 @@ From teaching myself Adobe products over ten years ago and using them to design 
 ## <a name="education">Education</a>
 
 #### Makers Academy (April 2018 to July 2018)
-Learning how to be a junior developer using modern methods for modern workplaces. The course balances independent study with group work. Makers acceptance rate for students is around 10%.
+Highly selective 12 week intensive coding bootcamp.
 
-- Modern programming methods - OOP, TDD, MVC
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Test driven development focused
+- Object oriented programming & software design
+- Full stack web development
+- Building MVC framework pattern
 
 #### Birkbeck College, University of London
 BA in Global politics and international relations
@@ -96,3 +99,9 @@ Foundation certificate in public relations
 ## <a name="interests">Interests</a>
 
 Pretty much just food really. Eating it, cooking it, reading about it, staring at it on Instagram. Can I be friends with Jamie Oliver now?
+
+## <a name="contact">Contact details</a>
+
+Email - [ben.furber@googlemail.com](ben.furber@googlemail.com)
+Phone - 0770 416 3099
+Github - [@benfurber](https://github.com/benfurber/) 
