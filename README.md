@@ -15,10 +15,10 @@ I love being part of building digital products, so I want to continue doing that
 | :----------------------| ----------------|-----------|
 | **[Bowling Challenge](https://github.com/benfurber/bowling-challenge)** |
 | Webapp that scores a single player game of bowling. The scoring of bowling (and where to put all that business logic within React) is annoying deceptive. | React.<br/>Semantic UI. | Jest |
-| **[Alexa Skill - Dog Translator](https://www.amazon.co.uk/Ben-Furber-Dog-Translator/dp/B07B28NH9G/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1523111280&sr=1-1&keywords=dog+translator)** |
-| A basic Alexa app that takes the user's command and 'whoofs' back at them. Very sophisticated.<br/>Has been used over 8.5k times! | JS.<br/>AWS - Lambda. | Before learning TDD. Sorry. |
 | **[MakersBnb](https://github.com/charmalt/makersbnb)** |
 | Group project at Makers Academy. Built the basic functionality of AirBnb. Users can sign-up, add rooms and rent rooms. I focused on the data models, ensuring they all interlinked correctly. | Ruby with Sinatra.<br/>Semantic UI. | RSpec.<br/>Capybara. |
+| **[Alexa Skill - Dog Translator](https://www.amazon.co.uk/Ben-Furber-Dog-Translator/dp/B07B28NH9G/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1523111280&sr=1-1&keywords=dog+translator)** |
+| A basic Alexa app that takes the user's command and 'whoofs' back at them. Very sophisticated.<br/>Has been used over 8.5k times! | JS.<br/>AWS - Lambda. | Before learning TDD. Sorry. |
 | **[Data visualisation dashboard](https://github.com/benfurber/datadashboard)** |
 | A small project to play around with data files. It can import a CSV, manipulates and turns it into JSON and then visualises it. | Node.js.<br/>D3.<br/>Bootstrap. | Pre-TDD - please forgive. |
 | **Fishnet** ([Live](http://fishes.eu-west-2.elasticbeanstalk.com/)) ([GitHub](https://github.com/ZoeKavanagh/fishnet)) |
