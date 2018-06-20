@@ -1,6 +1,6 @@
 ## Ben Furber
 ***
-[Projects](#projects) - [Experience](#experience) - [Skills](#skills) - [Education](#education) - [Interests](#interests) - [Contact details](#contact)
+[Projects](#projects) - [Experience](#experience) - [Skills/knowledge](#skills) - [Education](#education) - [Interests](#interests) - [Contact details](#contact)
 ***
 
 I’m a former product manager turn developer trying to stay out of my comfort zone. I started out as a website designer/manager before running a startup and then later as website product owner for large charity. [I've learned to be a developer at Makers Academy](#education).
@@ -11,13 +11,18 @@ I love being part of building digital products, so I want to continue doing that
 
 ## <a name="projects">Projects</a>
 
-| Project       | Summary       | Technologies  | Testing |
-| ------------- |---------------| --------------|---------|
-| [Bowling Challenge](https://github.com/benfurber/bowling-challenge) | Webapp that scores a single player game of bowling. The scoring of bowling (and where to put all that business logic within React) is annoying deceptive. | React (with Node.js). Semantic UI (UI library) | Jest |
-| [Alexa Skill - Dog Translator](https://www.amazon.co.uk/Ben-Furber-Dog-Translator/dp/B07B28NH9G/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1523111280&sr=1-1&keywords=dog+translator) | A basic Alexa app that takes the user's command and 'whoofs' back at them. Very sophisticated. Has been used over 8.5k times! | JS. AWS - Lambda. | None. I built it last year, please forgive me. |
-| [MakersBnb](https://github.com/charmalt/makersbnb) | Group project at Makers Academy. Built the basic functionality of AirBnb. Users can sign-up, add rooms and rent rooms. I focused on the data models, ensuring they all interlinked correctly. | Ruby with Sinatra. Semantic UI. | RSpec. Capybara. |
-| [Data visualisation dashboard](https://github.com/benfurber/datadashboard) | A small project to play around with data files. It can import a CSV, manipulates and turns it into JSON and then visualises it. | Node.js (file conversation, CSV manipulate). JS (V3, Chart.js). Bootstrap. | Again, it was before learning TDD - please continue to forgive. |
-| Fishnet<br/> [Live](http://fishes.eu-west-2.elasticbeanstalk.com/) <br/>[GitHub](https://github.com/ZoeKavanagh/fishnet) | Fortnight long four person group. Built the basic functionality of a social media platform and most importantly get it deployed. I focused more on the getting our continuous deployment setup on AWS, [I also wrote a little about the 'fun' I had with it](https://medium.com/@benfurber/a-few-things-ive-learned-that-s-made-aws-less-scary-f5600f7e662a). | Ruby on Rails. AWS - Elastic Beanstalk (plus other). Bootstrap | RSpec for Rails. Capybara |
+| Project/Summary             |  Technologies | Testing |
+| ----------------------------| --------------|---------|
+| [Bowling Challenge](https://github.com/benfurber/bowling-challenge) |
+| Webapp that scores a single player game of bowling. The scoring of bowling (and where to put all that business logic within React) is annoying deceptive. | React.<br/>Semantic UI. | Jest |
+| [Alexa Skill - Dog Translator](https://www.amazon.co.uk/Ben-Furber-Dog-Translator/dp/B07B28NH9G/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1523111280&sr=1-1&keywords=dog+translator) |
+| A basic Alexa app that takes the user's command and 'whoofs' back at them. Very sophisticated. Has been used over 8.5k times! | JS.<br/>AWS - Lambda. | None. I built it last year, please forgive. |
+| [MakersBnb](https://github.com/charmalt/makersbnb) |
+| Group project at Makers Academy. Built the basic functionality of AirBnb. Users can sign-up, add rooms and rent rooms. I focused on the data models, ensuring they all interlinked correctly. | Ruby with Sinatra.<br/>Semantic UI. | RSpec.<br/>Capybara. |
+| [Data visualisation dashboard](https://github.com/benfurber/datadashboard) |
+| A small project to play around with data files. It can import a CSV, manipulates and turns it into JSON and then visualises it. | Node.js (file conversation, CSV manipulate). <br/>JS (V3, Chart.js).<br/>Bootstrap. | Again, it was before learning TDD - please forgive. |
+| Fishnet ([Live](http://fishes.eu-west-2.elasticbeanstalk.com/)) ([GitHub](https://github.com/ZoeKavanagh/fishnet)) |
+| Fortnight long four person group. Built the basic functionality of a social media platform and most importantly get it deployed. I focused more on the getting our continuous deployment setup on AWS, [I also wrote a little about the 'fun' I had with it](https://medium.com/@benfurber/a-few-things-ive-learned-that-s-made-aws-less-scary-f5600f7e662a). | Ruby on Rails.<br/>AWS - Elastic Beanstalk (plus other).<br/>Bootstrap | RSpec for Rails.<br/>Capybara<br/>FactoryBot |
 
 ## <a name="experience">Experience</a>
 
