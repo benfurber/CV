@@ -20,9 +20,9 @@ I love being part of building digital products, so I want to continue doing that
 | [MakersBnb](https://github.com/charmalt/makersbnb) |
 | Group project at Makers Academy. Built the basic functionality of AirBnb. Users can sign-up, add rooms and rent rooms. I focused on the data models, ensuring they all interlinked correctly. | Ruby with Sinatra.<br/>Semantic UI. | RSpec.<br/>Capybara. |
 | [Data visualisation dashboard](https://github.com/benfurber/datadashboard) |
-| A small project to play around with data files. It can import a CSV, manipulates and turns it into JSON and then visualises it. | Node.js (file conversation, CSV manipulate). <br/>JS (V3, Chart.js).<br/>Bootstrap. | Again, it was before learning TDD - please forgive. |
+| A small project to play around with data files. It can import a CSV, manipulates and turns it into JSON and then visualises it. | Node.js.<br/>D3.<br/>Bootstrap. | Again, pre-TDD - please forgive. |
 | Fishnet ([Live](http://fishes.eu-west-2.elasticbeanstalk.com/)) ([GitHub](https://github.com/ZoeKavanagh/fishnet)) |
-| Fortnight long four person group. Built the basic functionality of a social media platform and most importantly get it deployed. I focused more on the getting our continuous deployment setup on AWS, [I also wrote a little about the 'fun' I had with it](https://medium.com/@benfurber/a-few-things-ive-learned-that-s-made-aws-less-scary-f5600f7e662a). | Ruby on Rails.<br/>AWS - Elastic Beanstalk (plus other).<br/>Bootstrap | RSpec for Rails.<br/>Capybara<br/>FactoryBot |
+| Fortnight long four person group. Built the basic functionality of a social media platform and most importantly get it deployed. I focused more on the getting our continuous deployment setup on AWS, [I also wrote a little about the 'fun' I had with it](https://medium.com/@benfurber/a-few-things-ive-learned-that-s-made-aws-less-scary-f5600f7e662a). | Ruby on Rails.<br/>AWS (esp. Elastic Beanstalk).<br/>Bootstrap | RSpec for Rails.<br/>Capybara<br/>FactoryBot |
 
 ## <a name="experience">Experience</a>
 
