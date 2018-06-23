@@ -84,6 +84,6 @@ Pretty much just food really. Eating it, cooking it, reading about it, staring a
 
 ## <a name="contact">Contact details</a>
 
-Email - [ben@fu.rber.io](ben@fu.rber.io)<br/>
+Email - [mailto:ben@fu.rber.io](ben@fu.rber.io)<br/>
 Phone - 0770 416 3099<br/>
 Github - [@benfurber](https://github.com/benfurber/)
