@@ -3,7 +3,7 @@
 [Projects](#projects) - [Experience](#experience) - [Skills/knowledge](#skills) - [Education](#education) - [Interests](#interests) - [Contact details](#contact)
 ***
 
-I’m a former product manager turn developer trying to stay out of my comfort zone. I started out as a website designer/manager before running a startup and then later as website product owner for large charity. [I've learned to be a developer at Makers Academy](#education).
+Product manager turned developer trying to stay out of my comfort zone. I started out as a website designer/manager before running a startup and then later as website product owner for large charity. [I've learned to be a developer at Makers Academy](#education).
 
 I love being part of building digital products, so I want to continue doing that as a developer - challenging myself as much as possible by building complex and difficult things for ambitious companies.
 
