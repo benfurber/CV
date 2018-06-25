@@ -28,25 +28,25 @@ I love being part of building digital products, so I want to continue doing that
 ## <a name="experience">Experience</a>
 
 ### Product management roles
-Senior Digital Channels Manager (maternity cover), Marie Curie (July 2017 - April 2018)<br>
-Digital Communications Programme Manager, Institute of Physics (March 2016 - July 2017)<br>
+Senior Digital Channels Manager (maternity cover), **Marie Curie** (July 2017 - April 2018)<br>
+Digital Communications Programme Manager, **Institute of Physics** (March 2016 - July 2017)<br>
 
 Successfully managed the maturing of established digital products. Turning business needs all the way through the product development cycle. Establishing and running SCRUM teams as well as looking after design, analytics and user experience.
 
 ### The few months in startup land
-Founder, The Gifting Co. (Full-time: September 2015 - January 2016)<br>
+Founder, **The Gifting Co.** (Full-time: September 2015 - January 2016)<br>
 
 Turned my vision for a gift buying service into a business. Received an early stage investment from Forward Partners - a venture capital fund. <a href="https://medium.com/@benfurber/so-i-m-officially-a-founder-now-what-ca88c9516408">I wrote this at the start of that journey</a> and <a href="https://medium.com/@benfurber/so-i-ve-hit-a-wall-what-now-b07bbc60f75a">this at the end</a>.
 
 ### Website management
-Consultant, main client Crimestoppers (November 2014 - September 2015)<br>
-Digital Communications Manager, Asthma UK (January 2013 - November 2014)<br>
-Digital Communications Officer, Trade Union Congress (September 2011 - January 2013)<br>
+Consultant, main client **Crimestoppers** (November 2014 - September 2015)<br>
+Digital Communications Manager, **Asthma UK** (January 2013 - November 2014)<br>
+Digital Communications Officer, **Trade Union Congress** (September 2011 - January 2013)<br>
 
 Managed thriving large, content driven websites for non-profits. Twice project managed the rebuild and redesign of the Content Management Systems. Extensive copywriting/editing and campaign management.
 
 ### Website designer</strong><br/>
-Freelancer (December 2011 - July 2016)
+**Freelancer** (December 2011 - July 2016)
 
 Delivered the design and build projects (on Wordpress) for dozens and dozens of small clients. Often sub-contracted from agencies. Worked extensively on CSS frameworks like Bootstrap.
 
