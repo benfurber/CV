@@ -7,6 +7,7 @@ Product manager turned developer trying to stay out of my comfort zone. I starte
 
 I love being part of building digital products, so I want to continue doing that as a developer - challenging myself as much as possible by building complex and difficult things for ambitious companies.
 
+[There's more on my website](http://fu.rber.io)<br/>
 [Email me](mailto:ben@fu.rber.io)
 
 ## <a name="projects">Projects</a>
@@ -84,6 +85,6 @@ Pretty much just food really. Eating it, cooking it, reading about it, staring a
 
 ## <a name="contact">Contact details</a>
 
-Email - [mailto:ben@fu.rber.io](ben@fu.rber.io)<br/>
+Email - [ben@fu.rber.io](mailto:ben@fu.rber.io)<br/>
 Phone - 0770 416 3099<br/>
 Github - [@benfurber](https://github.com/benfurber/)
