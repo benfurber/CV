@@ -38,7 +38,7 @@ Successfully managed the maturing of established digital products. Turning busin
 ### The few months in startup land
 Founder, **The Gifting Co.** (Full-time: September 2015 - January 2016)<br>
 
-Turned my vision for a gift buying service into a business. Received an early stage investment from Forward Partners - a venture capital fund. <a href="https://medium.com/@benfurber/so-i-m-officially-a-founder-now-what-ca88c9516408">I wrote this at the start of that journey</a> and <a href="https://medium.com/@benfurber/so-i-ve-hit-a-wall-what-now-b07bbc60f75a">this at the end</a>.
+Turned my vision for a personalised gift buying service into a business. The plan was to automate the ideas process for recommending gift. Received an early stage investment from Forward Partners - a venture capital fund. <a href="https://medium.com/@benfurber/so-i-m-officially-a-founder-now-what-ca88c9516408">I wrote this at the start of that journey</a> and <a href="https://medium.com/@benfurber/so-i-ve-hit-a-wall-what-now-b07bbc60f75a">this at the end</a>.
 
 ### Website management
 Consultant, main client **Crimestoppers** (November 2014 - September 2015)<br>
